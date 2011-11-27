@@ -1,0 +1,5 @@
+Implementation in C++ of all algorithms in the great book:
+"Introduction to algortithms", 3rd ed. (2009), by Cormen, Leiserson, Rivest, Stein
+
+This repository is mainly used from me to learn algorithms, but it's final goal 
+is to provide a ready-to-use library.
